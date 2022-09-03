@@ -3,7 +3,7 @@ def summa_of_two(a: float, b: float) -> float:
     return result
 
 
-def subsrtuction_of_two(a: float, b: float) -> float:
+def substruction_of_two(a: float, b: float) -> float:
     result: float = a - b
     return result
 
